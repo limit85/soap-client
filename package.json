@@ -1,0 +1,20 @@
+{
+  "name": "soap-helpler",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.43.0",
+    "bluebird": "^3.4.7",
+    "lodash": "^4.17.4",
+    "ws.js": "^2.0.22",
+    "xmldom": "^0.1.27",
+    "xpath.js": "^1.1.0",
+    "console-stamp": "^0.2.5"
+  }
+}
